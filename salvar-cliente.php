@@ -20,16 +20,16 @@ $bebida = $_POST["bebida"] ?? "";
 echo "Nome: $nome <br>";
 echo "E-mail: $email <br>";
 echo "Telefone: $telefone <br>";
-echo "rua: $telefone <br>";
-echo "numero: $telefone <br>";
-echo "bairro: $telefone <br>";
-echo "complemento: $telefone <br>";
-echo "cidade: $telefone <br>";
-echo "estado: $telefone <br>";
-echo "datadenacimento: $telefone <br>";
-echo "cpf: $telefone <br>";
-echo "rg: $telefone <br>";
-echo "whatsapp: $telefone <br>";
-echo "bebida: $telefone <br>";
+echo "rua: $rua <br>";
+echo "numero: $numero <br>";
+echo "bairro: $bairro <br>";
+echo "complemento: $complemento <br>";
+echo "cidade: $cidade <br>";
+echo "estado: $estado <br>";
+echo "datadenacimento: $datadenacimento <br>";
+echo "cpf: $cpf <br>";
+echo "rg: $rg <br>";
+echo "whatsapp: $whatsapp <br>";
+echo "bebida: $bebida <br>";
 
 ?>
